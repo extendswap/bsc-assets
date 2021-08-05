@@ -1,0 +1,11 @@
+{
+    "name": "DOUGH",
+    "type": "BEP20",
+    "symbol": "DOUGH",
+    "decimals": 18,
+    "website": "https://extendswap.com",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xd3fa2a4fd73495f9ebf6ba333891e94ca1ecb36c",
+    "status": "active",
+    "id": "0xd3fa2a4fd73495f9ebf6ba333891e94ca1ecb36c"
+}
