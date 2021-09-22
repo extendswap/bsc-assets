@@ -1,0 +1,11 @@
+{
+    "name": "AquaSolarMining",
+    "type": "BEP20",
+    "symbol": "ASM",
+    "decimals": 18,
+    "website": "https://t.me/AquaSolarMooning",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xE2AACBd7800b9dc519Db96089eC8c48E42Bce4c2",
+    "status": "active",
+    "id": "0xE2AACBd7800b9dc519Db96089eC8c48E42Bce4c2"
+}
